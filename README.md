@@ -1,2 +1,2 @@
-# dev-js
+# repositorio dev-js
 curso
